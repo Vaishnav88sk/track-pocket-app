@@ -3,6 +3,9 @@
 *.log
 *.pyc
 *.swp
+*.c
+*.cc
+*.h
 .DS_Store
 .atom/
 .buildlog/
@@ -42,5 +45,5 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
-.linux/*
-.windows/*
+/linux/*
+/windows/*
